@@ -13,3 +13,5 @@ Finally, the sketch gradually fades out the black parts of the image over time, 
 Overall, the Joyplot Edge Detection sketch is a great way to experiment with image processing, edge detection, and visualization in a fun and interactive way. So why not give it a try and see what amazing and creative visual displays you can create?
 Absolutely! All rights reserved. You are free to use this sketch for any purpose, including commercial use. You are also free to modify this sketch and use it in your own projects. All I ask is that you please give credit where credit is due and link back to this page if you use this sketch in your own projects. Thanks!
 - Alphonce Ochieng
+
+stay pushing Tee-
